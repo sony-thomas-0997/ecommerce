@@ -1,0 +1,16 @@
+.cart-side-box-outline {
+  margin: 15px 15px 5px 15px;
+  border: 2px solid #c831319d;
+      border-radius: 20px;
+}
+.cart-side-box-title{
+    padding: 10px 5px 10px 5px;
+    text-align: center;
+    border-bottom: 2px solid #c83131de;
+}
+
+.cart-side-box-para{
+    padding: 20px 5px 30px 5px;
+    text-align: center;
+ 
+}

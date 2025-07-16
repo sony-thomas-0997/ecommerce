@@ -1,0 +1,45 @@
+.show-multiple-column-brand-popup {
+  max-height: 250px;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  padding-top: 10px;
+}
+.each-brand-position {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.heading-select-brand {
+  text-align: center;
+      border-bottom: 1px solid grey;
+      margin-bottom: 10px;
+      
+}
+.css-10d30g3-MuiPaper-root-MuiDialog-paper {
+  background-color: #fff;
+  /* color: rgba(0, 0, 0, 0.87); */
+  -webkit-transition: box-shadow 300ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+  transition: box-shadow 300ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+  border-radius: 4px;
+  box-shadow: var(--Paper-shadow);
+  background-image: var(--Paper-overlay);
+  margin: 32px;
+  position: relative;
+  overflow-y: auto;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  max-height: calc(100% - 64px) !important;
+  max-width: 612px;
+  min-width: 400px !important;
+  min-height: 400px !important;
+  border-radius: 10px !important;
+}
+.close-btn-border {
+ 
+      border-top: 1px solid grey;
+}

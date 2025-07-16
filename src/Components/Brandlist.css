@@ -1,0 +1,23 @@
+.listflex {
+  display: flex;
+  flex-direction: column;
+}
+.css-imrjgg-MuiButtonBase-root-MuiCheckbox-root.Mui-checked,
+.css-imrjgg-MuiButtonBase-root-MuiCheckbox-root.MuiCheckbox-indeterminate {
+  color: #b53f35 !important;
+}
+.css-1808mag-MuiPaper-root-MuiAccordion-root:last-of-type {
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 4px;
+    margin: 0px 14px 0px 10px;
+}
+.css-1808mag-MuiPaper-root-MuiAccordion-root.Mui-expanded:last-of-type {
+    margin-bottom: 0;
+    margin: 0px 14px 0px 10px;
+}
+.see_more_btn{
+  color: #b92525 !important;
+}
+.brand-chip-margin{
+  margin: 40px 0px 0px 0px;
+}

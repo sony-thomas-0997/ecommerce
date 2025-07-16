@@ -1,0 +1,14 @@
+.small-footer-grid {
+  background-color: rgb(162, 22, 55);
+  min-height: 50px;
+  display: flex;
+  color: #fff;
+  justify-content: center;
+  align-items: center;
+}
+.footertextprop{
+    font-family:'Courier New', Courier, monospace;
+}
+.footer-section-full-container{
+    margin: 50px 0px 0px 0px ;
+}

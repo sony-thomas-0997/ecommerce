@@ -1,0 +1,15 @@
+.errormsgdiv {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  font-size: 25px;
+  background-color: #d2d2d2;
+  color: rgb(92, 92, 92);
+}
+.err-msg-span {
+  border: 3px solid #656565;
+  border-radius: 20px;
+text-align: center;
+  padding: 20px 20px 20px 20px;
+}

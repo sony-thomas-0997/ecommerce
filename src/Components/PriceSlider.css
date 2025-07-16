@@ -1,0 +1,57 @@
+.css-1e45yg4-MuiSlider-root {
+  border-radius: 12px;
+  box-sizing: content-box;
+  display: inline-block;
+  position: relative;
+  cursor: pointer;
+  touch-action: none;
+  -webkit-tap-highlight-color: transparent;
+  color: #b53f35 !important;
+  height: 4px;
+  max-width: 100%;
+  padding: 13px 0;
+  margin-bottom: 20px;
+}
+.css-swtyag-MuiSlider-markLabel {
+  font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+  font-weight: 400;
+  font-size: 0.875rem;
+  line-height: 1.43;
+  letter-spacing: 0.01071em;
+  color: rgba(0, 0, 0, 0.6);
+  position: absolute;
+  white-space: nowrap;
+  top: 30px;
+  -webkit-transform: translateX(-50%);
+  -moz-transform: translateX(-50%);
+  -ms-transform: translateX(-50%);
+  transform: translateX(-50%);
+  color: rgb(185 37 37) !important;
+}
+.css-1v5z18m {
+  margin: 50px 0px 25px 25px;
+  max-width: 75% !important;
+}
+span[data-index="0"].MuiSlider-markLabelActive {
+  visibility: hidden;
+  position: "";
+  top: 50%;
+}
+
+span[data-index="0"].css-1qb795b-MuiSlider-markLabel {
+  position: relative;
+  top: 50%;
+}
+span[data-index="1"].MuiSlider-markLabelActive {
+  visibility: visible;
+}
+
+span[data-index="3"].MuiSlider-markLabelActive {
+  visibility: hidden;
+
+  top: 50%;
+}
+
+span[data-index="3"].css-1qb795b-MuiSlider-markLabel {
+  top: 50%;
+}

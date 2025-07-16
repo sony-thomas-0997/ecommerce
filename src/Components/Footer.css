@@ -1,0 +1,33 @@
+.footer-color {
+  background-color: rgba(207, 207, 207, 0.29);
+  min-height: 200px;
+  margin: 75px 0px 0px 0px;
+  color: #000000c7;
+}
+.first-col-prop {
+  padding: 25px 15px 50px 15px;
+  text-align: justify;
+}
+.first-col-heading {
+  text-align: center;
+}
+
+.para-border-prop > div:not(:first-child) {
+  border-left: 5px solid #fff;
+}
+
+.small-footer-grid {
+  background-color: rgb(162, 22, 55);
+  min-height: 50px;
+  display: flex;
+  color: #fff;
+  justify-content: center;
+  align-items: center;
+}
+.address-footer{
+  list-style: none;
+  text-align: center;
+}
+.terms-footer{
+  list-style:circle
+}
